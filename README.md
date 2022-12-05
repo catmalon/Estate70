@@ -44,7 +44,7 @@
 ![](https://imgur.com/i5wuAit.png)
 
 ### 待租物件細節
-![](https://imgur.com/LyCDMxo.png)
+![](https://i.imgur.com/jVLYZ1N.png)
 - 每個待租物件最下方，房客可留下姓名、電話、E-mail，直接送出租屋意願。
 
 ![](https://imgur.com/2NOyKWv.png)
